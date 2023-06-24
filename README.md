@@ -17,7 +17,7 @@ C#, Javascript, Python, R, HTML, CSS, english and spanish 🇲🇽
 .NET Core, ASP.NET
 
 **Databases:** 
-MSSQL, MySQL
+MSSQL, MySQL, PostgreSQL
 
 **Cloud Services**: 
 Azure (CI/CD, AI, Functions), AWS (EC2, S3, Lambda, DynamoDB, Cloudwatch)
