@@ -29,7 +29,7 @@ Learning how to build sites that combine **React** and **Flask**.
 
 #### Current Projects:
 - [cook.io](cook.io) a tool to help digitize recipes and organize cookbooks.
-- [databridge](databridge) Databridge is a data processing service aimed to manage the intake, processing, and reading of data.
+- [ocrassistant](ocrassistant) An OCR interface for reading text from images using the Tesseract engine.
 
 #### Past Projects:
 ##### MP3PoolR 
