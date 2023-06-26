@@ -11,7 +11,7 @@ I mostly work in the C#/.NET space though I try to keep other skills and interes
 
 ---
 **Languages:** 
-C#, Javascript, Python, R, HTML, CSS, english and spanish 🇲🇽
+C#, Javascript, Python, C++, R, HTML, CSS, english and spanish 🇲🇽
 
 **Frameworks:** 
 .NET Core, ASP.NET
