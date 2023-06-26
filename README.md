@@ -7,7 +7,7 @@ I mostly work in the C#/.NET space though I try to keep other skills and interes
 #### What other interests, you ask? Well, I like
 - climbing rocks (inside and outside) 🧗‍♂️
 - cooking 🧑🏼‍🍳
-- getting into coding rabbit holes for weeks or months at a time 👨🏻‍💻
+- going down coding rabbit holes for weeks or months at a time 👨🏻‍💻
 
 ---
 **Languages:** 
