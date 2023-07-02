@@ -5,7 +5,7 @@ I'm currently a software developer at Quandis building data services products wh
 I mostly work in the C#/.NET space though I try to keep other skills and interests sharp on the side.
 
 #### What other interests, you ask? Well, I like
-- climbing rocks (inside and outside) 🧗‍♂️
+- climbing rocks (inside and outside) 🧗‍♂
 - cooking 🧑🏼‍🍳
 - going down coding rabbit holes for weeks or months at a time 👨🏻‍💻
 
