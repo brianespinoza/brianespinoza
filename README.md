@@ -40,8 +40,8 @@ OCR Assistant provides an interface that allows users to integrate different OCR
 ##### MP3PoolR 
 In a past life, I was a DJ taking computer science and statistics classes. I knew the music I needed and where to (legally) obtain it. I also only knew R at the time so I built a listener to download new music for me and it changed my life. 
 
-***Did I break TOS?*** Probably. 
+Did I break TOS? Probably. 
 
-***Would I recommend building a webscraper in R?*** Never again. 
+Would I recommend building a webscraper in R? Never again. 
 
-***How much time did I save?*** All of it.
+Did I save a bunch of time? I saved all of the time.
