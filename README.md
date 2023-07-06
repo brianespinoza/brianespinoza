@@ -1,13 +1,13 @@
 ### Hi there 👋
 ---
-I'm a software developer at Quandis building military-related data service products with FinTech applications. 
+I'm a software developer at Quandis. I work on the military team building data service products with FinTech applications. 
 
-I mostly work in the C#/.NET space though I try to keep other skills and interests sharp on the side.
+I mostly work in the C#/.NET space though I try to keep other skills sharp on the side.
 
-#### What other interests, you ask? Well, I like
-- climbing rocks 🧗‍♂
+#### Other interests include:
+- rock climbing 🧗‍♂
 - cooking 🧑🏼‍🍳
-- coding rabbit holes 👨🏻‍💻
+- finding vintage furniture 🪑
 
 ---
 **Languages:** 
@@ -16,27 +16,29 @@ C#, Javascript, Python, C++, R, HTML, CSS, English and Español 🇲🇽
 **Frameworks:** 
 .NET Core, ASP.NET
 
+**AI:**
+OpenAI LLM, Tesseract OCR
+
 **Databases:** 
 MSSQL, MySQL, PostgreSQL
 
-**Cloud Services**: 
-Azure (CI/CD, AI, Functions), AWS (EC2, S3, Lambda, DynamoDB, Cloudwatch)
-
-#### Learning:
-Learning how to build sites that combine **React** and **Flask**.
+**Cloud Services:** 
+Azure (CI/CD, AI, Load Testing), AWS (EC2, S3, Lambda, DynamoDB, Cloudwatch)
 
 ---
 
 #### Current Projects:
 - [cook.io](cook.io) a tool to help digitize recipes and organize cookbooks.
-- [ocrassistant](https://github.com/brianespinoza/ocrassistant) An OCR interface for reading text from images using the Tesseract engine.
 
 #### Past Projects:
+##### [OCRASSISTANT](https://github.com/brianespinoza/ocrassistant)
+OCR Assistant provides an interface that allows users to integrate different OCR readers. Current implementation allows users to extract the text from images using Google's Tesseract engine.
+
 ##### MP3PoolR 
 In a past life, I was a DJ taking computer science and statistics classes. I knew the music I needed and where to (legally) obtain it. I also only knew R at the time so I built a listener to download new music for me and it changed my life. 
 
-**Did I break TOS?** Probably. 
+***Did I break TOS?*** Probably. 
 
-**Would I recommend building a webscraper in R?** Never again. 
+***Would I recommend building a webscraper in R?*** Never again. 
 
-**Did I save an incredible amount of time? 💯%!**
+***How much time did I save?*** All of it.
