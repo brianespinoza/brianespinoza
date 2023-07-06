@@ -31,6 +31,9 @@ Azure (CI/CD, AI, Load Testing), AWS (EC2, S3, Lambda, DynamoDB, Cloudwatch)
 - [cook.io](cook.io) a tool to help digitize recipes and organize cookbooks. Uses OCR and a little prompt engineering to quickly digitize entire cookbooks.
 
 #### Past Projects:
+##### [OPENAI-Completions](https://github.com/brianespinoza/OpenAI)
+GPT Completions enables users to integrate and leverage different variants of OpenAI's GPT models. The current implementation empowers users to generate creative, context-relevant text based on given prompts utilizing engines such as DaVinci, GPT-3.5-turbo, and GPT-4.
+
 ##### [OCRASSISTANT](https://github.com/brianespinoza/ocrassistant)
 OCR Assistant provides an interface that allows users to integrate different OCR readers. Current implementation allows users to extract the text from images using Google's Tesseract engine.
 
