@@ -28,7 +28,7 @@ Azure (CI/CD, AI, Load Testing), AWS (EC2, S3, Lambda, DynamoDB, Cloudwatch)
 ---
 
 #### Current Projects:
-- [cook.io](cook.io) a tool to help digitize recipes and organize cookbooks.
+- [cook.io](cook.io) a tool to help digitize recipes and organize cookbooks. Uses OCR and a little prompt engineering to quickly digitize entire cookbooks.
 
 #### Past Projects:
 ##### [OCRASSISTANT](https://github.com/brianespinoza/ocrassistant)
