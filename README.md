@@ -1,17 +1,17 @@
 ### Hi there 👋
 ---
-I'm currently a software developer at Quandis building data services products while leading military applications. 
+I'm a software developer at Quandis building military-related data service products with FinTech applications. 
 
 I mostly work in the C#/.NET space though I try to keep other skills and interests sharp on the side.
 
 #### What other interests, you ask? Well, I like
-- climbing rocks (inside and outside) 🧗‍♂
+- climbing rocks 🧗‍♂
 - cooking 🧑🏼‍🍳
-- going down coding rabbit holes for weeks or months at a time 👨🏻‍💻
+- coding rabbit holes 👨🏻‍💻
 
 ---
 **Languages:** 
-C#, Javascript, Python, C++, R, HTML, CSS, english and spanish 🇲🇽
+C#, Javascript, Python, C++, R, HTML, CSS, English and Español 🇲🇽
 
 **Frameworks:** 
 .NET Core, ASP.NET
