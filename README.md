@@ -6,15 +6,15 @@ I mostly work in the C#/.NET space though I try to keep other skills sharp on th
 
 #### Other interests include:
 - rock climbing 🧗‍♂
-- cooking 🧑🏼‍🍳
-- finding vintage furniture 🪑
+- cooking for friends and neighbors 🧑🏼‍🍳
+- vintage shopping for furniture 🪑
 
 ---
 **Languages:** 
 C#, Javascript, Python, C++, R, HTML, CSS, English and Español 🇲🇽
 
 **Frameworks:** 
-.NET Core, ASP.NET
+.NET Core, Flask
 
 **AI:**
 OpenAI LLM, Tesseract OCR
@@ -28,8 +28,8 @@ Azure (CI/CD, AI, Load Testing), AWS (EC2, S3, Lambda, DynamoDB, Cloudwatch)
 ---
 
 #### Current Projects:
-##### [COOK.IO](https://github.com/brianespinoza/cook.io) 
-cook.io is a site app I've designed to organize recipes and cookbooks from various sources. It's main value feature will leverage OCR to quickly digitize entire cookbooks. Recipes will be searchable and sortable in intuitive ways allowing users to quickly sift through hundreds of their own recipes.
+##### [COOKBOOK.IO](https://github.com/brianespinoza/cook.io) 
+cookbook.io is a app I'm creating to help organize recipes and cookbooks from various sources. It's main value feature leverages OCR to quickly digitize entire cookbooks. Recipes will be searchable and sortable in intuitive ways allowing users to quickly sift through hundreds of their own recipes.
 
 #### Past Projects:
 ##### [OPENAI-Completions](https://github.com/brianespinoza/OpenAI)
