@@ -23,7 +23,7 @@ OpenAI LLM, Tesseract OCR
 MSSQL, MySQL, PostgreSQL
 
 **Cloud Services:** 
-Azure (CI/CD, AI, Load Testing), AWS (EC2, S3, Lambda, DynamoDB, Cloudwatch)
+Azure (CI/CD, AI, Load Testing), AWS (EC2, S3, Lambda, DynamoDB, Cloudwatch, API Gateway)
 
 ---
 
