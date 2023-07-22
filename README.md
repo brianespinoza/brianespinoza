@@ -6,8 +6,8 @@ I mostly work in the C#/.NET space though I try to keep other skills sharp on th
 
 #### Other interests include:
 - rock climbing 🧗‍♂
-- cooking for friends and neighbors 🧑🏼‍🍳
-- vintage shopping for furniture 🪑
+- hosting dinner parties 🧑🏼‍🍳
+- thrifting for unique furniture 🪑
 
 ---
 **Languages:** 
