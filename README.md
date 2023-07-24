@@ -17,13 +17,13 @@ C#, Javascript, Python, C++, R, HTML, CSS, English and Español 🇲🇽
 .NET Core, Flask
 
 **AI:**
-OpenAI LLM, Tesseract OCR
+OpenAI API, Tesseract OCR
 
 **Databases:** 
 MSSQL, MySQL, PostgreSQL
 
-**Cloud Services:** 
-Azure (CI/CD, AI, Load Testing), AWS (EC2, S3, Lambda, DynamoDB, Cloudwatch, API Gateway)
+**Infrastructure:**
+AWS (EC2, S3, Lambda, DynamoDB, API Gateway), Apache Kafka
 
 ---
 
