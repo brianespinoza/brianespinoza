@@ -2,7 +2,7 @@
 ---
 I'm a software developer at Quandis. I work on the military team building data service products with FinTech applications. 
 
-I mostly work in the C#/.NET space though I try to keep other skills sharp on the side.
+I mostly work in backend development, creating robust APIs and implementing new features though I try to keep some webdev skills sharp on the side.
 
 #### Other interests include:
 - rock climbing 🧗‍♂
