@@ -10,7 +10,7 @@ I mostly work in backend development, creating robust APIs and implementing new 
 - thrifting for unique furniture 🪑
 
 ---
-Languages: C#, Python, Javascript, JavaScript, HTML/CSS, R
+Languages: C#, C++, Python, Java, JavaScript, HTML/CSS, R
 
 Databases: MS SQL, PostgreSQL, MySQL
 
