@@ -2,20 +2,26 @@
 ---
 I'm a software developer at Quandis. I work on the military team building data service products with FinTech applications. 
 
-I mostly work in backend development, creating robust APIs and implementing new features though I try to keep some webdev skills sharp on the side.
+I mostly work in backend development, creating robust APIs in C#/.NET.
+
+#### Currently learning
+- Rust 🦀
 
 #### Other interests include:
 - rock climbing 🧗‍♂
 - hosting dinner parties 🧑🏼‍🍳
-- thrifting for unique furniture 🪑
+- updating my neovim config
+- app development
 
 ---
-Languages: C#, C++, Python, Java, JavaScript, HTML/CSS, R
-
-Databases: MS SQL, PostgreSQL, MySQL
-
-Frameworks and DevTools: .NET, NET Framework, XUnit, Flask, Apache Kafka, Git, Docker
-
+Languages: C#, C++, Python, Java, JavaScript/TypeScript, Bash, Lua, Powershell, Sql, R 
+Runtimes & Libraries: .NET Core, Node.js, Express, Flask
+Databases & NoSQL: MS SQL, PostgreSQL, MySQL, Sqlite, DynamoDB, Redis, Firebase Firestore
+Cloud Services & Iac: AWS CDK, ECS, EC2, Lambda, CloudFormation, S3, SQS, SNS, DynamoDB
+Protocols: REST, OpenAPI/Swagger, JSON, XML, HTTP2, gRPC, RESP
+Servers & OS: Linux, Windows, Nginx, IIS
+CLI Tools: Git, Docker, Vi/Vim, Unix Core Utils, AWS CLI, AWS CDK 
+Front-End: React, React Native, Expo, Tailwind, HTMX
 ---
 
 #### Projects:
