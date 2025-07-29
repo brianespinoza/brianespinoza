@@ -1,20 +1,5 @@
 ### Hi there 👋
 ---
-I'm a software developer at Quandis. I work on the military team building data service products with FinTech applications. 
-
-I mostly work in backend development, creating robust APIs in C#/.NET.
-
-#### Currently learning
-- Rust 🦀
-
-#### Other interests include:
-
-- rock climbing 🧗‍♂
-- hosting dinner parties 🧑🏼‍🍳
-- updating my neovim config
-- app development
-
----
 
 **Languages:**
 C#, C++, Python, Java, JavaScript/TypeScript, Bash, Lua, Powershell, Sql, R 
